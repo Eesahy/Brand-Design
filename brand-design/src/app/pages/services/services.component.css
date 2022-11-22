@@ -1,0 +1,298 @@
+/** Banner **/
+.hero-bg
+{
+  background-image: url(../../../assets/images/unsplash_.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.side-padding{ padding: 0 8rem !important;}
+.container-fluid h1
+{
+width: 900px;
+height: 225px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 120%;
+color: #ffff;
+}
+
+/** Monitoring **/
+.container-fluid h2
+{
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+color: #025184;
+}
+.container-fluid h3
+{
+width: 550px;
+height: 38px;
+left: 49rem;
+top: 53.6rem;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+color: #2C3131;
+}
+.container-fluid p
+{
+  width: 595px;
+  height: 283px;
+left: 49rem;
+top: 59rem;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  color: #424242;
+}
+.container-fluid .btn
+{
+  width: 350px;
+ height: 75px;
+ background-color: transparent;
+ border: none;
+ color: #025184;
+ font-size: 27px;
+ display: inline-flex;
+ font-family: 'Montserrat', sans-serif;
+}
+.container-fluid .btn:hover
+{
+  width: 35rem;
+  letter-spacing: 10px;
+}
+
+/** Digital skill **/
+.container-fluid-2 h2
+{
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+color: #025184;
+}
+.container-fluid-2 h3
+{
+width: 550px;
+height: 38px;
+left: 49rem;
+top: 53.6rem;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+color: #2C3131;
+}
+.container-fluid-2 p
+{
+  width: 595px;
+  height: 283px;
+left: 49rem;
+top: 59rem;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  color: #424242;
+}
+.container-fluid-2 .btn
+{
+width: 350px;
+ height: 75px;
+ background-color: transparent;
+ border: none;
+ color: #025184;
+ font-size: 27px;
+ display: inline-flex;
+ font-family: 'Montserrat', sans-serif;
+}
+.container-fluid-2 .btn:hover
+{
+  width: 35rem;
+  letter-spacing: 10px;
+}
+
+/** bottom nav **/
+.container-fluid-md-4 h1
+{
+width: 175px;
+height: 73px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+text-align: center;
+font-weight: 600;
+font-size: 56px;
+line-height: 120%;
+display: flex;
+padding: 3px 3px;
+align-items: center;
+text-align: center;
+color: #025184;
+}
+.container-fluid-md-4 p
+{
+  text-align: center;
+  font-size: 19px;
+  font-weight: 600;
+}
+
+/** Monitoring 2 **/
+.container-fluid-3 h2
+{
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+color: #025184;
+}
+.container-fluid-3 h3
+{
+width: 550px;
+height: 38px;
+left: 49rem;
+top: 53.6rem;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+color: #2C3131;
+}
+.container-fluid-3 p
+{
+  width: 595px;
+  height: 283px;
+left: 49rem;
+top: 59rem;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  color: #424242;
+}
+.container-fluid-3 .btn
+{
+  width: 350px;
+ height: 75px;
+ background-color: transparent;
+ border: none;
+ color: #025184;
+ font-size: 27px;
+ display: inline-flex;
+ font-family: 'Montserrat', sans-serif;
+}
+.container-fluid-3 .btn:hover
+{
+  width: 35rem;
+  letter-spacing: 10px;
+}
+
+/** Digital skill 2 **/
+.container-fluid-4 h2
+{
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+color: #025184;
+}
+.container-fluid-4 h3
+{
+width: 550px;
+height: 38px;
+left: 49rem;
+top: 53.6rem;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+color: #2C3131;
+}
+.container-fluid-4 p
+{
+  width: 595px;
+  height: 283px;
+left: 49rem;
+top: 59rem;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  color: #424242;
+}
+.container-fluid-4 .btn
+{
+width: 350px;
+ height: 75px;
+ background-color: transparent;
+ border: none;
+ color: #025184;
+ font-size: 27px;
+ display: inline-flex;
+ font-family: 'Montserrat', sans-serif;
+}
+.container-fluid-4 .btn:hover
+{
+  width: 35rem;
+  letter-spacing: 10px;
+}
+
+/** Last Banner **/
+.container-fluid-5
+{
+  background-image: url(../../../assets/images/unsplash_.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+.container-fluid-5 h1
+{
+max-width: 950px;
+min-height: 120px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 120%;
+color: #ffff;
+}
+.container-fluid-5 p
+{
+width: 733px;
+height: 130px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 140%;
+color: #FFFFFF;
+}
+.container-fluid-5 button 
+{
+ background-color: transparent;
+ border: none;
+ color: #ffff;
+ font-size: 28px;
+ font-family: 'Montserrat', sans-serif;
+ padding: 0px;
+}
+.container-fluid-5 button:hover
+{
+  max-width: 35rem;
+  letter-spacing: 12px;
+}

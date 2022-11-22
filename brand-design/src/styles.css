@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+*
+{
+  padding: 0;
+  margin: 0;
+}
+:root
+{
+  --primary-color:#025184;
+  --secondary-color:#2C3131;
+}
+body
+{
+  height: 100vh;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #E9E9E9;
+  overflow-x: hidden !important;
+}
+
+@media only screen and (max-width: 600px)  {
+  .responsive {
+    padding: 0px 20px;
+  }
+  .row{
+    flexdirection:column;
+  }
+  .banner{
+    width: 100% !important;
+  }
+  .banner h1{
+    font-size: 16px !important;
+  
+  }
+}

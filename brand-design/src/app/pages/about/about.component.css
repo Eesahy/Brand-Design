@@ -1,0 +1,174 @@
+/** Banner **/
+.hero-bg
+{
+  background-image: url(../../../assets/images/unsplash_.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.side-padding{ padding: 0 8rem !important;}
+.container-fluid h1
+{
+width: 900px;
+height: 225px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 120%;
+color: #ffff;
+}
+
+/** Our Approach **/ 
+ h2
+{
+width: 357px;
+height: 46px;
+left: 10%;
+top: 120px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 39px;
+line-height: 120%;
+color: #025184;
+}
+p
+{
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 180%;
+display: flex;
+align-items: center;
+color: #424242;
+}
+
+/** Our Culture **/
+.container-fluid ul
+{
+  list-style: none;
+  left: 780px;
+  top: 470px;
+}
+.container-fluid li
+{
+width: 550px;
+height: 45px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 160%;
+padding: 15px 15px;
+display: flex;
+align-items: center;
+color: #424242;
+border-bottom: 0.5px solid #CACACA;
+border-bottom-right-radius: 10px;
+}
+
+/** Our Story **/
+.p
+{
+width: 665px;
+height: 250px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+display: flex;
+align-items: center;
+color: #424242;
+}
+
+/** Our Team **/
+.container-fluid-3 h2
+{
+width: 679px;
+height: 160px;
+left: 120px;
+top: 80px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 120%;
+color: #025184;
+}
+
+.container-fluid-3 h4
+{
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  color: #000000;
+}
+.container-fluid-3 p
+{
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+color: #000000;
+}
+.container-fluid-3 img
+{
+  filter: grayscale(100%);
+}
+.container-fluid-3 img:hover
+{
+  filter: grayscale(0%);
+}
+
+/** Last Banner **/
+.container-fluid-4
+{
+  background-image: url(../../../assets/images/unsplash_.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container-fluid-4 h1
+{
+max-width: 950px;
+min-height: 120px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 120%;
+color: #ffff;
+}
+.container-fluid-4 p
+{
+width: 733px;
+height: 130px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 140%;
+color: #FFFFFF;
+}
+.container-fluid-4 button 
+{
+ background-color: transparent;
+ border: none;
+ color: #ffff;
+ font-size: 28px;
+ font-family: 'Montserrat' sans-serif;
+ padding: 0px;
+}
+.container-fluid-4 button:hover
+{
+  max-width: 35rem;
+  letter-spacing: 12px;
+}

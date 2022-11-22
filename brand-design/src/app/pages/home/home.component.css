@@ -1,0 +1,273 @@
+/** Banner **/
+.hero-bg
+{
+  background-image: url(../../../assets/images/unsplash_.jpg);
+  max-width: 1500px;
+  min-height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.side-padding{ padding: 0 8rem !important;}
+.container-fluid h1
+{
+max-width: 900px;
+height: 160px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 120%;
+color: #ffff;
+}
+.container-fluid button 
+{
+ background-color: transparent;
+ border: none;
+ color: #ffff;
+ font-size: 28px;
+ font-family: 'Montserrat' sans-serif;
+ padding: 0px;
+}
+.container-fluid button:hover
+{
+  max-width: 35rem;
+  letter-spacing: 12px;
+}
+
+
+/** About us **/
+.container-fluid h3
+{
+  max-width: 100%;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+color: #025184;
+}
+.container-fluid h4
+{
+  max-width: 100%;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+display: grid;
+color: #2C3131;
+}
+.container-fluid p
+{
+  max-width: 595px;
+  height: 283px;
+left: 49rem;
+top: 59rem;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  color: #424242;
+}
+.container-fluid .btn
+{
+ width: 291px;
+ height: 61px;
+ background-color: transparent;
+ border: none;
+ color: #025184;
+ font-size: 28px;
+ display: inline-flex;
+ font-family: 'Montserrat' sans-serif;
+}
+.container-fluid .btn:hover
+{
+  width: 35rem;
+  letter-spacing: 10px;
+}
+
+/** Second Banner **/
+.container-fluid-2
+{
+  background-image: url(../../../assets/images/unsplash_.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 900px;
+  width: 1500px;
+  color: #ffff;
+  font-size: 38px;
+  font-family: 'Open Sans', sans-serif;
+font-style: normal;
+  font-weight: 600;
+}
+.container-fluid-2 p
+{
+  font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 140%;
+color: #CACACA;
+}
+.container-fluid-2 p:hover
+{
+  width: 45rem;
+  letter-spacing: 10px;
+}
+.container-fluid-2 ul
+{
+  list-style: none;
+}
+.container-fluid-2 li:hover
+{
+  width: 65rem;
+  letter-spacing: 10px;
+}
+.container-fluid-2 img
+{
+  width: 70px;
+}
+
+/** Brands **/
+.container-fluid-3 h1
+{
+height: 134px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 120%;
+color: #2C3131;
+}
+.container-fluid-3 img
+{
+  padding: 32px;
+}
+
+/** Explain container **/
+.container-fluid-3 .container-md-3 p
+{
+width: 980px;
+height: 150px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 140%;
+display: flex;
+align-items: center;
+color: #2C3131;
+}
+.container-fluid-3 .container-md-3 h3
+{
+width: 400px;
+height: 2px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+color: #2C3131;
+}
+.container-fluid-3 .container-md-3 h5
+{
+width: 76px;
+height: 22px;
+font-family: 'Montserrat' , sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 180%;
+color: #CACACA;
+}
+
+/** Last Banner **/
+.container-fluid-4
+{
+  background-image: url(../../../assets/images/unsplash_.jpg);
+  min-height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container-fluid-4 h1
+{
+width: 950px;
+height: 120px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 120%;
+color: #ffff;
+}
+.container-fluid-4 p
+{
+max-width: 733px;
+height: 130px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 140%;
+color: #FFFFFF;
+}
+.container-fluid-4 button 
+{
+ background-color: transparent;
+ border: none;
+ color: #ffff;
+ font-size: 28px;
+ font-family: 'Montserrat' sans-serif;
+ padding: 0px;
+}
+.container-fluid-4 button:hover
+{
+  max-width: 35rem;
+  letter-spacing: 12px;
+}
+@media only screen and (max-width: 600px){
+  .container-fluid h1
+{
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+width: 25rem;
+display: flex;
+height: 2rem;
+font-size: 60px;
+line-height: 120%;
+color: #ffff;
+}
+.container-fluid button 
+{
+min-height: 25rem;
+width: 25rem;
+display: block;
+}
+  .container-fluid-4 h1
+{
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+width: 25rem;
+display: flex;
+height: 2rem;
+font-size: 60px;
+line-height: 120%;
+color: #ffff;
+}
+.container-fluid-4 button 
+{
+min-height: 25rem;
+width: 25rem;
+display: block;
+display-flex: center;
+}
+
+}
+

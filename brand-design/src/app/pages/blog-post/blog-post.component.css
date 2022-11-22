@@ -1,0 +1,174 @@
+/** Banner **/
+.hero-bg
+{
+  background-image: url(../../../assets/images/unsplash_.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.side-padding{ padding: 0 8rem !important;}
+.container-fluid h1
+{
+width: 900px;
+height: 225px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 120%;
+color: #ffff;
+}
+.container-fluid button 
+{
+ background-color: transparent;
+ border: none;
+ color: #ffff;
+ font-size: 28px;
+ font-family: 'Montserrat', sans-serif;
+}
+
+/** Ntv text **/
+.container-fluid p
+{
+  width: 952px;
+height: 26px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 180%;
+color: #424242;
+}
+
+/** Categories **/
+.container-fluid h3
+{
+  width: 194px;
+  height: 48px;
+  left: 73rem;
+  top: 87rem;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 120%;
+  color: #2C3131;
+}
+.container-fluid ul
+{
+  list-style: none;
+}
+.container-fluid li
+{
+width: 232px;
+height: 26px;
+padding: 1.5rem;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 180%;
+color: #2C3131;
+}
+.container-fluid h4
+{
+  width: 303px;
+height: 26px;
+font-family: 'Montserrat',sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 140%;
+color: #025184;
+}
+
+/** Text **/
+.container-fluid h2
+{
+  width: 583px;
+height: 48px;
+left: 10rem;
+top: 120rem;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+line-height: 120%;
+color: #025184;
+}
+
+/** Related post **/
+.rel
+{
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+line-height: 120%;
+color: #025184;
+}
+.nav
+{
+font-family: 'Montserrat',sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 140%;
+color: #025184;
+}
+.date
+{
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+}
+
+/** Last Banner **/
+.container-fluid-5
+{
+  background-image: url(../../../assets/images/unsplash_.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container-fluid-5 h1
+{
+width: 950px;
+height: 120px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 120%;
+color: #ffff;
+}
+.container-fluid-5 p
+{
+width: 733px;
+height: 130px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 140%;
+color: #FFFFFF;
+}
+.container-fluid-5 button 
+{
+ background-color: transparent;
+ border: none;
+ color: #ffff;
+ font-size: 28px;
+ font-family: 'Montserrat', sans-serif;
+ padding: 0px;
+}
+.container-fluid-5 button:hover
+{
+  max-width: 35rem;
+  letter-spacing: 12px;
+}

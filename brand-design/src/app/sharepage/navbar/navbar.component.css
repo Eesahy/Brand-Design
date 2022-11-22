@@ -1,0 +1,47 @@
+.navbar-nav
+{
+position: absolute;
+width: 100px;
+height: 29px;
+left: 420px;
+top: 30px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: bold;
+font-size: 21px;
+line-height: 140%;
+display: flex;
+align-items: center;
+color: #025184;
+}
+.ntv-logo
+{
+  position: absolute;
+  left: 135px;
+}
+.navbar-nav a{
+  display: inline-block;
+  width: 150px;
+  padding: 30px 25px;
+  color: var(--secondary-color);
+}
+.navbar-nav .nav-link.active-link
+{
+  color: var(--primary-color);
+}
+.active-link
+{
+  color: var(--primary-color);
+}
+.social
+{
+  position: absolute;
+  width: 100px;
+  display: flex;
+  left: 700px;
+}
+.social img
+{
+  height: 93.5%;
+
+}
